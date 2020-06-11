@@ -6,6 +6,6 @@
 
 
     <color name="colorTotalConfirmed">#F3CB04</color>
-    <color name="colorTotalDeath">#FB0303</color>
+    <color name="colorTotalDeaths">#FB0303</color>
     <color name="colorTotalRecovered">#029F2A</color>
 </resources>
